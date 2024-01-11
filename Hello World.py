@@ -1,1 +1,1 @@
-##Creating a script to start scripting in python
+print ("Hello World")
